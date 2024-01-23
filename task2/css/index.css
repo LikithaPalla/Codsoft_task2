@@ -1,0 +1,419 @@
+body
+{
+	background-color: #F3EEEA;
+}
+.nav
+{
+	background-color: #F0DBAF;
+	height: 60px;
+	border: 5px solid #76453B;
+}
+.nav1
+{
+	width: 200px;
+	float: left;
+	font-family:"Brush Script MT", cursive ;
+	font-size: 45px;
+	color: black;
+	margin-bottom: 0;
+	padding-left: 60px;
+	padding-top: 4px;
+}
+.nav2
+{
+	margin-bottom: 0;
+	margin-left: 700px;
+	float: left;
+	padding-top: 10px;
+	width: 200px;
+}
+.nav3
+{
+	width: 400px;
+	float: right;
+	font-family:"Brush Script MT", cursive ;
+	font-size: 30px;
+	color: black;
+	margin-top: -67px;
+	margin-right: -40px;
+}
+button
+{
+	padding: 10px 30px 10px 30px;
+	background-color: #76453B;
+	color: #F0DBAF;
+	border-radius: 20px;
+	font-family: monospace;
+}
+.mdiv
+{
+	height: 3500px;
+	width: 1510px;
+	background-color: red;
+}
+.div
+{
+	background-image: url("https://media.istockphoto.com/id/1252901139/photo/traditional-spanish-tapas-and-wine-frame-on-dark-background-copy-space.jpg?s=612x612&w=0&k=20&c=6AKruw9NgU8q38Vwxa_vgS8vegN4uJvHP9RsWuhU1WA=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 660px;
+}
+.div1
+{
+	background-color: #F0DBAF;
+	width: 650px;
+	margin-left: 450px;
+	height: 300px;
+	border-radius: 50px 110px 50px 110px;
+	border: 20px solid #76453B;
+	margin-top: -100px;
+}
+.p1
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 100px;
+	color: #76453B;
+	margin-top: 0;
+	padding-left: 200px;
+	padding-top: 30px;
+	text-shadow: 1px 1px white;
+}
+.p2
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 60px;
+	color: #76453B;
+	margin-top: -130px;
+	padding-left: 300px;
+	text-shadow: 1px 1px white;
+}
+.p3
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 60px;
+	color: #76453B;
+	margin-top: -70px;
+	padding-left: 100px;
+	text-shadow: 1px 1px white;
+}
+.div2
+{
+	height: 750px;
+    background-image: url("https://media.istockphoto.com/id/1398524185/photo/stylish-barrel-of-wine.jpg?s=612x612&w=0&k=20&c=2XqLKxyywOGKy-ltVsLPQDnDqP8Gw7YBUGW-Iamscp4=");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	width: 1510px;
+}
+.p5
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 70px;
+	color: #F0DBAF;
+	margin-top: 0;
+	padding-left: 670px;
+	padding-top: 10px;
+	text-shadow: 1px 1px white;
+}
+.menu
+{
+	height: 500px;
+	width: 1210px;
+    background-color: #F0DBAF;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+.tiffins
+{
+	float: left;
+	width: 220px;
+	height: 460px;
+	margin-top: 15px;
+	margin-left: 10px;
+	border: 3px solid black;
+	background-color: white;
+}
+.ricebowls
+{
+	float: left;
+	width: 220px;
+	height: 460px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border: 3px solid black;
+	background-color: white;
+}
+.soupssalads
+{
+	float: left;
+	width: 220px;
+	height: 460px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border: 3px solid black;
+	background-color: white;
+}
+.desserts
+{
+	float: left;
+	width: 220px;
+	height: 460px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border: 3px solid black;
+	background-color: white;
+}
+.drinks
+{
+	float: right;
+	width: 220px;
+	height: 460px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	border: 3px solid black;
+	background-color: white;
+}
+.menu .pmenu
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 30px;
+	color: black;
+	margin-bottom: 0;
+	padding-left: 25px;
+	text-shadow: 1px 1px #F8E559;
+}
+.pdiv
+{
+	height: 180px;
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.p
+{
+	font-family: monospace;
+	font-weight: 3px;
+}
+.div3
+{
+	height: 700px;
+	width: 1510px;
+	background-image: url("https://img.freepik.com/premium-photo/fried-chicken-fries-with-copy-space_23-2148273050.jpg?size=626&ext=jpg&ga=GA1.1.1837398113.1704102695&semt=ais");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 750px;
+}
+.div31
+{
+	height: 450px;
+	width: 550px;
+	float: left;
+	margin-left: 400px;
+	margin-top: 70px;
+	border: 40px solid #76453B;
+	border-radius: 30px;
+	background-color: #F0DBAF;
+	box-shadow: 0 0 24px 0 white;
+}
+.div32
+{
+	height: 700px;
+	width: 400px;
+	float: right;
+	margin-right: 50px;
+}
+.image1
+{
+	height: 400px;
+	width: 400px;
+	margin-top: 120px;
+}
+.p4
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 40px;
+	color: black;
+	padding: 0px 10px 10px 20px;
+	text-shadow: 3px 3px #EEC759;
+}
+li
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 25px;
+}
+.div4
+{
+	background-image: url("https://images.unsplash.com/photo-1517897286832-ba927d20e824?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	height: 700px;
+}
+.div41
+{
+	width: 500px;
+	height: 700px;
+	float: left;
+}
+.div42
+{
+	width: 400px;
+	background-color: #F0DBAF;
+	height: 500px;
+	float: left;
+	margin-top: 70px;
+	border: 20px solid #76453B;
+	border-radius: 30px;
+	box-shadow: 0 0 24px 0 white;
+}
+.div43
+{
+	width: 500px;
+	height: 700px;
+	float: right;
+}
+.d1
+{
+	height: 150px;
+	width: 200px;
+	background-image: url("https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600");
+	background-size: cover;
+	margin-left: 230px;
+	border-radius: 100%;
+}
+.d2
+{
+	height: 150px;
+	width: 200px;
+	margin-left: 60px;
+	border-radius: 100%;
+}
+.d3
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 60px;
+	border-radius: 100%;
+}
+.d4
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 230px;
+	border-radius: 100%;
+}
+.d11
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 60px;
+	border-radius: 100%;
+}
+.d22
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 230px;
+	border-radius: 100%;
+}
+.d33
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 230px;
+	border-radius: 100%;
+}
+.d44
+{
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin-left: 60px;
+	border-radius: 100%;
+}
+.p6
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 70px;
+	color: black;
+	padding: 0px 10px 10px 20px;
+	text-shadow: 3px 3px #EEC759;
+	padding-left: 50px;
+	margin-top: 30px;
+}
+.p7
+{
+	font-family:"Brush Script MT", cursive ;
+	font-size: 25px;
+	color: black;
+	padding: 0px 10px 10px 20px;
+	padding-left: 20px;
+	margin-top: -25px;
+}
+.div5
+{
+	background-image: url("https://images.unsplash.com/photo-1498165512286-c94b28036ff4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxmb29kJTIwYmxhY2slMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww");
+	height: 700px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.div51
+{
+	height: 500px;
+	width: 1000px;
+	margin-left: 230px;
+	border: 20px solid #76453B;
+	border-radius: 30px 130px 30px 130px;
+	background-color: #F0DBAF;
+	box-shadow: 0 0 24px 0 white;
+	margin-top: -50px;
+}
+.div52
+{
+	height: 450px;
+	width: 400px;
+	margin-left: 20px;
+	background-color: white;
+	margin-top: 20px;
+	border-radius: 10px 80px 10px 80px;
+	float: left;
+	border: 5px solid #76453B;
+}
+.div53
+{
+	height: 500px;
+	width: 500px;
+	margin: 20px 20px 20px 20px;
+	margin-top: 20px;
+	float: right;
+}
+.p10
+{
+	color: #76453B;
+	font-family:"Brush Script MT", cursive ;
+	font-size: 20px;
+}
+.div522
+{
+	height: 220px;
+	width: 390px;
+	border-radius: 10px 80px 0px 0px;
+	background-color: #76453B;
+}
+.div523
+{
+	height: 220px;
+	width: 390px;
+	margin-top: 10px;
+	border-radius: 0px 0px 10px 80px;
+}
+.p11
+{
+	color: #76453B;
+	font-family:"Brush Script MT", cursive ;
+	font-size: 25px;
+	padding: 10px 10px 10px 10px;
+}
